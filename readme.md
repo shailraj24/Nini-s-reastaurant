@@ -1,4 +1,4 @@
-## Name
+## Intro
 
 Hey there i'm Raj Shailraj and i made this antire reastaruant landing page
 
@@ -13,4 +13,4 @@ it's take near about 1 Hour to complete.
 
 ## Deployed link
 
-[Nini's Reastaurant)](https://street-style-landingg-page.netlify.app)
+[Nini's Reastaurant)](ninis-restaurant.netlify.app)
