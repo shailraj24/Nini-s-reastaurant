@@ -13,4 +13,4 @@ it's take near about 1 Hour to complete.
 
 ## Deployed link
 
-[Nini's Reastaurant)](ninis-restaurant.netlify.app)
+[Nini's Reastaurant)](https://ninis-restaurant.netlify.app/)
